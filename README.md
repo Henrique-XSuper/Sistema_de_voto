@@ -46,5 +46,5 @@ Python 3 instalado na máquina <br>
 Terminal ou IDE para executar o script<br>
 ambiente de desenvolvimento como GoogleColab, júpiter, vs code/vs Studio
 ---
-📝 Licença
+## 📝 Licença
 Este projeto esta sobre a licença MIT.
